@@ -32,7 +32,7 @@ header, main, footer {
 header {
   padding: 5em;
   text-align: center;
-  background-image: url('./img/bg5.jpg');
+  background-image: url('./bg5.jpg');
   background-size: cover;
   background-position: bottom 100px right 50px;
   color: rgb(192, 216, 55);
