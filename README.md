@@ -1,2 +1,2 @@
-# zhulique.github.io
-My CV Project
+My CV Project. 
+Written on HTML and CSS. 
